@@ -1,0 +1,83 @@
+{
+    padding: 0px
+    margin: 0px
+}
+.heading{
+    color: rgb(209, 49, 49);
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    font-style: italic;
+
+}
+.hea{
+    color: rgb(209, 49, 49);
+    position: absolute;
+    top: 60%;
+    width: 100%;
+    text-align: center;
+    font-style: italic;
+}
+form{
+    padding: 0px
+    margin:0px
+}
+.kerala{
+    padding: 5%;
+    margin: 5%;
+}
+.list-group{
+    padding: 4%;
+    margin: 5%;
+}
+.log{
+    padding: 3%;
+    margin-right: 25%;
+    margin-bottom: 5%;
+    margin-left: 25%;
+    width: 40%;
+    
+    float: center;
+    border: 3px solid rgb(22, 19, 19) ;
+    background-color: rgb(207, 202, 202);
+    margin-top: 5%
+    
+
+    
+}
+.sign-up{
+    padding: 3%;
+    margin-right: 25%;
+    margin-bottom: 5%;
+    margin-left: 25%;
+    width: 40%;
+    
+    float: center;
+    border: 3px solid rgb(22, 19, 19) ;
+    background-color: rgb(207, 202, 202);
+    margin-top: 5%
+    
+}
+button:hover{
+    color: white;
+    background-color: blue;
+}
+.sign{
+    text-align: center;
+}
+.district.a{
+    text-decoration: none;
+
+}
+
+
+.alle{
+    margin: 0px;
+    padding: 0px;
+}
+.alleppy{
+    margin: 0px;
+    padding: 0px;
+
+}
